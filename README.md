@@ -31,16 +31,16 @@ I'm excited to continue developing and enhancing the game with these and other i
 ## Screenshots
 
 Here's a glimpse of the Solar System Simulation:
-![r1](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/c936f0a3-442c-4596-8dba-ffa29c79226e)
-![r2](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/c91706c2-34fc-41f1-9e27-e807c99bbb0c)
-![r3](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/1db4ae37-0d8c-4e5d-912d-1f4ad390c6d2)
-![r4](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/cb9e31e4-b494-4d98-973e-1a4efc4d12d3)
-![r5](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/3239a449-500a-4aec-ba88-c6d4c89e0503)
-![r6](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/a5e62963-037c-4792-8d41-5d953add67df)
-![r7](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/ecc82014-6bdf-4e8a-96ce-523c6f2c829d)
-![r8](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/5cd741a4-5064-4534-956a-8263e48f1d3f)
-![r9](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/05d5e4d9-16d9-49c5-91f5-5ebb8479f02e)
-![r10](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/44e02dcf-c789-4e25-9cbf-32acad4c8ab8)
+![picture1](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/8a18c0ce-83b4-459a-9e8e-47b6d2afac19)
+![picture2](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/be9bba6b-353d-4ae0-811a-4e58af4295f0)
+![picture3](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/b32d3f7b-6c1c-4e8f-9563-77542b765192)
+![picture4](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/d79f6e19-1bd0-4d87-9c00-9a415a4d327e)
+![picture5](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/ea0eadb5-4942-4ad1-897f-1ba2bdf0fa56)
+![picture6](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/9d8b9431-4d89-481e-b725-e41122a12f50)
+![picture7](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/4531259d-16ba-4a06-bfb6-46cc36358724)
+![picture8](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/32f7e263-7600-4b46-b52d-541b25d09e7b)
+![picture9](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/8711e1f1-2b34-4c3e-8b0d-928164242ecd)
+![picture10](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/bf156acf-5042-4bcc-80ad-a5ad580cfdf2)
 
 ## Getting Started
 To experience the game on your local machine, follow these steps:
