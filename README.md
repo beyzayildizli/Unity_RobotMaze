@@ -14,7 +14,7 @@ Navigate the maze by shooting at the red walls. At the beginning of the game, th
 - Turn Right: D / Right Arrow
 - Toggle Flashlight: F
 - Change Camera View: C
-- Shoot: Right Mouse Button
+- Fire: Right Mouse Button
 
 ## Music
 The game features two different tracks of music. Players can change the in-game music and adjust the volume settings from the menu.
