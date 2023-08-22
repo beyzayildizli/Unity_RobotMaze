@@ -30,7 +30,7 @@ I'm excited to continue developing and enhancing the game with these and other i
 
 ## Screenshots
 
-Here's a glimpse of the Solar System Simulation:
+Here's a glimpse of the game:
 ![picture1](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/8a18c0ce-83b4-459a-9e8e-47b6d2afac19)
 ![picture2](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/be9bba6b-353d-4ae0-811a-4e58af4295f0)
 ![picture3](https://github.com/beyzayildizli/Unity_RobotMaze/assets/77398074/b32d3f7b-6c1c-4e8f-9563-77542b765192)
