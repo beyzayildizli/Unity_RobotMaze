@@ -16,7 +16,7 @@ Navigate the maze by shooting at the red walls. At the beginning of the game, th
 - Change Camera View: C
 - Fire: Right Mouse Button
 
-## Music
+### Music
 The game features two different tracks of music. Players can change the in-game music and adjust the volume settings from the menu.
 
 ## Planned Features
