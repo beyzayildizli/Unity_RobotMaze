@@ -314,7 +314,7 @@
 "Assets/Scripts/FormCodes.cs"
 "Assets/Scripts/LightControl.cs"
 "Assets/Scripts/MoveControls.cs"
-"Assets/Scripts/MusicControls.cs"
+"Assets/Scripts/RobotFix.cs"
 "Assets/Scripts/TurningWheelConrols.cs"
 -langversion:9.0
 

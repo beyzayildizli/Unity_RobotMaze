@@ -8,6 +8,7 @@ ScriptsOnlyBuild:
     - FormCodes
     - LightControl
     - MoveControls
+    - RobotFix
     - TurningWheelConrols
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -193,6 +194,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 96
@@ -222,21 +227,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 19804}
     - Class: 114
-      Script: {instanceID: 19834}
+      Script: {instanceID: 19836}
     - Class: 114
-      Script: {instanceID: 19892}
+      Script: {instanceID: 19894}
     - Class: 114
-      Script: {instanceID: 20010}
+      Script: {instanceID: 20012}
     - Class: 114
-      Script: {instanceID: 20254}
+      Script: {instanceID: 20256}
     - Class: 114
-      Script: {instanceID: 20552}
+      Script: {instanceID: 20554}
     - Class: 114
-      Script: {instanceID: 20698}
+      Script: {instanceID: 20700}
     - Class: 114
-      Script: {instanceID: 21012}
+      Script: {instanceID: 21014}
     - Class: 114
-      Script: {instanceID: 21020}
+      Script: {instanceID: 21022}
     - Class: 114
       Script: {instanceID: 22036}
     - Class: 114
@@ -286,6 +291,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 96
@@ -313,13 +322,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 19804}
     - Class: 114
-      Script: {instanceID: 20010}
+      Script: {instanceID: 20012}
     - Class: 114
-      Script: {instanceID: 20552}
+      Script: {instanceID: 20554}
     - Class: 114
-      Script: {instanceID: 20698}
+      Script: {instanceID: 20700}
     - Class: 114
-      Script: {instanceID: 21012}
+      Script: {instanceID: 21014}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -369,10 +378,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 83
       Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
-    - Class: 96
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -398,29 +403,31 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 19804}
     - Class: 114
-      Script: {instanceID: 19892}
+      Script: {instanceID: 19806}
     - Class: 114
-      Script: {instanceID: 19940}
+      Script: {instanceID: 19894}
     - Class: 114
-      Script: {instanceID: 20010}
+      Script: {instanceID: 19942}
     - Class: 114
-      Script: {instanceID: 20382}
+      Script: {instanceID: 20012}
     - Class: 114
-      Script: {instanceID: 20552}
+      Script: {instanceID: 20384}
     - Class: 114
-      Script: {instanceID: 20698}
+      Script: {instanceID: 20554}
     - Class: 114
-      Script: {instanceID: 20782}
+      Script: {instanceID: 20700}
     - Class: 114
-      Script: {instanceID: 20854}
+      Script: {instanceID: 20784}
     - Class: 114
-      Script: {instanceID: 21012}
+      Script: {instanceID: 20856}
     - Class: 114
-      Script: {instanceID: 21020}
+      Script: {instanceID: 21014}
+    - Class: 114
+      Script: {instanceID: 21022}
     - Class: 114
       Script: {instanceID: 22036}
     - Class: 114
-      Script: {instanceID: 26536}
+      Script: {instanceID: 27100}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -924,6 +931,12 @@ ScriptsOnlyBuild:
     className: TurningWheelConrols
   - hash:
       serializedVersion: 2
+      Hash: 751e5bae2a317288c2ab58d66687092b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: RobotFix
+  - hash:
+      serializedVersion: 2
       Hash: 6237f92becd6162fa105361ab9ce2a00
     assemblyName: Unity.TextMeshPro
     namespaceName: TMPro
@@ -1096,12 +1109,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
-  - hash:
-      serializedVersion: 2
-      Hash: 751e5bae2a317288c2ab58d66687092b
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: MusicControls
   - hash:
       serializedVersion: 2
       Hash: f4f39b64f410b0cd98b49df4bad0eb7e
@@ -1323,4 +1330,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/MainScene.unity
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/FormScene.unity
-  playerPath: C:/Users/beyza/Desktop/RobotGameBuild/RobotInMaze.exe
+  playerPath: C:/Users/beyza/Desktop/BuildRobotGame/RobotInMaze.exe
