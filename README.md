@@ -1,4 +1,4 @@
-# Unity_RobotMaze
+# Robot Game in the Maze With Unity
 Welcome to Unity_RobotMaze, my second project using Unity and my first game created in Unity! 
 
 ## Game Description
